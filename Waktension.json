@@ -1,0 +1,111 @@
+{
+  "allowHttpBackend": false,
+  "backendCommand": "",
+  "backendFolderName": "",
+  "certificateExceptions": [],
+  "extensionViews": [
+    {
+      "channelId": "782725070",
+      "configurationAnchor": "panel",
+      "displayChannelName": "alex__2319",
+      "features": {
+        "isBitsEnabled": false,
+        "isChatEnabled": false,
+        "isSubscriptionStatusAvailable": false
+      },
+      "frameSize": {
+        "width": 1280,
+        "height": 720
+      },
+      "id": "1",
+      "isPopout": false,
+      "label": "",
+      "linked": false,
+      "linkedUserId": "",
+      "orientation": "Portrait",
+      "type": "panel",
+      "viewerType": "Broadcaster"
+    },
+    {
+      "channelId": "782725070",
+      "configurationAnchor": "panel",
+      "displayChannelName": "alex__2319",
+      "features": {
+        "isBitsEnabled": false,
+        "isChatEnabled": false,
+        "isSubscriptionStatusAvailable": false
+      },
+      "frameSize": {
+        "width": 1280,
+        "height": 720
+      },
+      "id": "2",
+      "isPopout": false,
+      "label": "",
+      "linked": false,
+      "linkedUserId": "",
+      "orientation": "Portrait",
+      "type": "panel",
+      "viewerType": "Logged-In Viewer"
+    }
+  ],
+  "manifest": {
+    "anchor": "panel",
+    "assetUrls": [],
+    "authorName": "누나야",
+    "bitsEnabled": false,
+    "canInstall": true,
+    "configUrl": "https://localhost:8080/config.html",
+    "configurationLocation": "none",
+    "description": "왁물원 글 게시 조회",
+    "eulaTosUrl": "",
+    "hasChatSupport": false,
+    "iconUrl": "https://extensions-discovery-images.twitch.tv/1maf50ycnwpyjglfvs8njhivrism24/0.0.1/logo8b9dd3ec-dc3a-4544-b75d-d5887cfa833f",
+    "iconUrls": {
+      "100x100": "https://extensions-discovery-images.twitch.tv/1maf50ycnwpyjglfvs8njhivrism24/0.0.1/logo8b9dd3ec-dc3a-4544-b75d-d5887cfa833f"
+    },
+    "id": "1maf50ycnwpyjglfvs8njhivrism24",
+    "installationCount": -42,
+    "liveConfigUrl": "",
+    "name": "Waktension",
+    "panelHeight": 300,
+    "privacyPolicyUrl": "",
+    "requestIdentityLink": false,
+    "requiredBroadcasterAbilities": [],
+    "screenshotUrls": [],
+    "sku": "",
+    "state": "Testing",
+    "subscriptionsSupportLevel": "none",
+    "summary": "왁물원 글 게시 조회",
+    "supportEmail": "alex5622319@naver.com",
+    "vendorCode": "",
+    "version": "0.0.1",
+    "viewerSummary": "",
+    "viewerUrl": "https://localhost:8080/index.html",
+    "viewerUrls": {
+      "mobile": "https://localhost:8080/mobile.html",
+      "panel": "https://localhost:8080/index.html"
+    },
+    "views": {
+      "mobile": {
+        "viewerUrl": "https://localhost:8080/mobile.html"
+      },
+      "panel": {
+        "viewerUrl": "https://localhost:8080/naverogin.html",
+        "height": 300,
+        "canLinkExternalContent": false
+      },
+      "config": {
+        "viewerUrl": "https://localhost:8080/config.html",
+        "canLinkExternalContent": false
+      }
+    },
+    "whitelistedConfigUrls": [],
+    "whitelistedPanelUrls": []
+  },
+  "frontendCommand": "",
+  "frontendFolderName": "C:\\Users\\traff\\OneDrive\\바탕 화면\\Waktension",
+  "name": "Waktension",
+  "usingRandomFrontendHostingPort": false,
+  "version": 3
+}
